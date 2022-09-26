@@ -4,9 +4,14 @@ title: Acerca de mí
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Alex Masabanda. Soy estudiante de Desarrollo web:
 
-- I rock a great mustache
+- Mi asignatura favorita Despliegue de aplicaciones web
+
+<iframe width="600" height = "420"
+src="https://www.youtube.com/watch?v=zGlH3DkUYYE&ab_channel=Jos%C3%A9Tav%C3%A1rez">
+</iframe>
+
 - I'm extremely loyal to my family
 
 What else do you need?
