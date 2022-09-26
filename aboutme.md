@@ -6,14 +6,14 @@ subtitle: Why you'd want to go on a date with me
 
 Mi nombre es Alex Masabanda. Soy estudiante de Desarrollo web:
 
-- Mi asignatura favorita Despliegue de aplicaciones web
+- bohemian rhapsody
 
 <iframe width="600" height = "420"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 
 
-- I'm extremely loyal to my family
+
 
 What else do you need?
 
