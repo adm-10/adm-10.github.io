@@ -40,4 +40,4 @@ Para finalizar modificamos el about me a nuestro gusto.
 
 
 
-Para más infomración de mi GitHub [mi Github](https://github.com/adm-10) puedes visitarla **Saludos** 
+Para más infomración de [mi Github](https://github.com/adm-10) puedes visitarlo **Saludos** 
