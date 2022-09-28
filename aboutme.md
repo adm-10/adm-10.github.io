@@ -10,7 +10,7 @@ Mi nombre es Alex Masabanda. Soy estudiante de Desarrollo web:
 - bohemian rhapsody
 
 
-![musica](https://www.youtube.com/watch?v=tgbNymZ7vqY&ab_channel=TheMuppets){: width="600" height = "420"}
+[musica](https://www.youtube.com/watch?v=tgbNymZ7vqY&ab_channel=TheMuppets){: width="600" height = "420"}
 
 
 - Tambien soy fan de varios deportes
