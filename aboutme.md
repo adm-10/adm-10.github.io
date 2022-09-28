@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 - Tambien soy fan de varios deportes
 
-![Deportes](https://www.edx.org/static/d2b75bcda9cf89d92bf563b009519cea/Aprende_deportes.jpg){:width=600px text-align:center;}
+![Deportes](https://www.edx.org/static/d2b75bcda9cf89d92bf563b009519cea/Aprende_deportes.jpg)
 
 
 ## Como hice esta página?
