@@ -23,20 +23,20 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 
 ## Como hice esta página?
-```
-Con la ayuda de un generador de páginas estaticas, escogemos una y realizamos un fork para copiarlo a nuestro repositorio.
 
-Nos ayudamos de Github pages para poder desplegar nuestra página.
-Para ello vamos a Settings , Pages, en el apartado Branch seleccionamos master y ruta /(root).
+Con la ayuda de un generador de páginas ,[estaticas]( https://jamstack.org/generators/), escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo a nuestro repositorio.
+
+Nos ayudamos de **Github pages** para poder desplegar nuestra página.
+Para ello entramos en el repositio que hemos copiado, vamos a Settings , Pages, en el apartado Branch seleccionamos __master y ruta /(root).__
 
 Una vez hecho esto procedemos a modicicar nuestra web.
-Para ello nos dirijimos a el archivo de configuración _config.yml
+Para ello nos dirijimos al archivo de configuración **_config.yml**
 En el cual podemos ir modificando varios aspectos de nuestra web.
 
-Para finalizar modificamos el about me a nuestro gusto.
+Para finalizar modificamos el **about me** a nuestro gusto.
 
 
 
 Para más infomración de [mi Github](https://github.com/adm-10) puedes visitarlo **Saludos** 
 
-```
+
