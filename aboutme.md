@@ -21,7 +21,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </p>
 </div>
 
-![Deportes](https://img.freepik.com/foto-gratis/herramientas-deportivas_53876-138077.jpg?w=1060&t=st=1664217187~exp=1664217787~hmac=9761caf83000d7de67cb316e520bf0791c3d0777b2056ed2432f385b31c9b712){: width="600px"}
+![Deportes](<center>https://img.freepik.com/foto-gratis/herramientas-deportivas_53876-138077.jpg?w=1060&t=st=1664217187~exp=1664217787~hmac=9761caf83000d7de67cb316e520bf0791c3d0777b2056ed2432f385b31c9b712</center>){: width="600px"}
 
 
 
