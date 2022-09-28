@@ -24,7 +24,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 ## Como hice esta página?
 
-Con la ayuda de un generador de páginas ,[estaticas]( https://jamstack.org/generators/), escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo a nuestro repositorio.
+Con la ayuda de un generador de páginas [estaticas]( https://jamstack.org/generators/), escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo a nuestro repositorio.
 
 Nos ayudamos de **Github pages** para poder desplegar nuestra página.
 Para ello entramos en el repositio que hemos copiado, vamos a Settings , Pages, en el apartado Branch seleccionamos __master y ruta /(root).__
