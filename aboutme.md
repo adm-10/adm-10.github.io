@@ -13,8 +13,9 @@ Mi nombre es Alex Masabanda. Soy estudiante de Desarrollo web:
 <iframe width="600" height = "420"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
-</div>
 </p>
+</div>
+
 
 - Tambien soy fan de varios deportes
 
