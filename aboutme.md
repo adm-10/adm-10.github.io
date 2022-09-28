@@ -23,7 +23,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 
 ## Como hice esta página?
-
+```
 Con la ayuda de un generador de páginas estaticas, escogemos una y realizamos un fork para copiarlo a nuestro repositorio.
 
 Nos ayudamos de Github pages para poder desplegar nuestra página.
@@ -38,3 +38,5 @@ Para finalizar modificamos el about me a nuestro gusto.
 
 
 Para más infomración de [mi Github](https://github.com/adm-10) puedes visitarlo **Saludos** 
+
+```
