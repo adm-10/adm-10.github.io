@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 - Tambien soy fan de varios deportes
 
-![Deportes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6YB5bV6Sjs6_PgpGr5pH8bMmgyKhXAr6-7Q&usqp=CAU){:width=600px}
+![Deportes](https://www.edx.org/static/d2b75bcda9cf89d92bf563b009519cea/Aprende_deportes.jpg){:width=600px}
 
 
 ## Como hice esta página?
