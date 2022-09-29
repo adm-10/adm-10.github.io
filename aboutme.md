@@ -22,9 +22,12 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 ![Deportes](https://www.edx.org/static/d2b75bcda9cf89d92bf563b009519cea/Aprende_deportes.jpg)
 
 
-## Como hice esta página?
+## ¿Como hice esta página?
 
-Con la ayuda de un generador de páginas [estaticas]( https://jamstack.org/generators/), escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo a nuestro repositorio.
+Con la ayuda de un generador de páginas [estaticas]( https://jamstack.org/generators/).
+![cap1](https://github.com/adm-10/despliegueweb/blob/master/assets/img/cap1.PNG)
+
+ escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo a nuestro repositorio.
 
 Nos ayudamos de **Github pages** para poder desplegar nuestra página.
 Para ello entramos en el repositio que hemos copiado, vamos a Settings , Pages, en el apartado Branch seleccionamos ***master y ruta /(root).***
