@@ -25,7 +25,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 ## ¿Como hice esta página?
 
 Con la ayuda de un generador de páginas [estaticas]( https://jamstack.org/generators/).
-![cap1](https://github.com/adm-10/despliegueweb/blob/master/assets/img/cap1.PNG)
+<img src="/assets/img/cap1.PNG" alt="imagen pg estatica"/>
 
  escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo a nuestro repositorio.
 
