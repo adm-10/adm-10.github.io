@@ -1,38 +1,29 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Mark Rothko
+subtitle: Fue un pintor y grabador nacido en Letonia, que vivió la mayor parte de su vida en los Estados Unidos.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Ha sido asociado con el movimiento contemporáneo del expresionismo abstracto, a pesar de que en varias ocasiones expresó su rechazo a la categoría «alienante» de pintor abstracto.
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+## Rothko junto a uno de sus cuadros
 
-It can also be centered!
+![tothko](https://github.com/adm-10/despliegueweb/blob/master/assets/img/Rotko_JUFROTHKO_A.jpeg){: .mx-auto.d-block :}
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+En 1925 inició su carrera como pintor en Nueva York de modo autodidacta. En torno a 1940 realizaba una pintura muy similar a la obra de Barnett Newman y Adolph Gottlieb, próxima al surrealismo y plagada de formas biomórficas. A partir de 1947 su estilo cambió y comenzó a pintar grandes cuadros con capas finas de color. Con el paso de los años, la mayoría de sus composiciones tomaron la forma de dos rectángulos confrontados con bordes desdibujados por veladuras.
 
-Here's a code chunk:
+Son frecuentes los grandes formatos que envuelven al espectador, con la finalidad de hacerle partícipe de una experiencia mística, ya que Rothko daba un sentido religioso a su pintura. Al final de su vida sus cuadros son de tonalidades oscuras, con abundancia de marrones, violetas, granates y, sobre todo, negros. Corresponde a esta época la Capilla Rothko de la familia De Menil, en Houston, un espacio de oración donde catorce cuadros rodean un espacio octogonal dedicado a la meditación.
+
+
+
+
+### Otros aspectos de md
 
 ~~~
 var foo = function(x) {
