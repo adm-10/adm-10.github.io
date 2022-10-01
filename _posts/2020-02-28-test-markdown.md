@@ -14,7 +14,9 @@ Ha sido asociado con el movimiento contemporáneo del expresionismo abstracto, a
 
 ## Rothko junto a uno de sus cuadros
 
-![tothko](https://github.com/adm-10/despliegueweb/blob/master/assets/img/Rotko_JUFROTHKO_A.jpeg){: .mx-auto.d-block :}
+<img src="/assets/img/Rotko_JUFROTHKO_A.jpeg" alt="img rothko" width="600px"/>
+
+
 
 
 En 1925 inició su carrera como pintor en Nueva York de modo autodidacta. En torno a 1940 realizaba una pintura muy similar a la obra de Barnett Newman y Adolph Gottlieb, próxima al surrealismo y plagada de formas biomórficas. A partir de 1947 su estilo cambió y comenzó a pintar grandes cuadros con capas finas de color. Con el paso de los años, la mayoría de sus composiciones tomaron la forma de dos rectángulos confrontados con bordes desdibujados por veladuras.
