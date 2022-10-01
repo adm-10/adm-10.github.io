@@ -21,7 +21,7 @@ En 1925 inició su carrera como pintor en Nueva York de modo autodidacta. En tor
 
 Son frecuentes los grandes formatos que envuelven al espectador, con la finalidad de hacerle partícipe de una experiencia mística, ya que Rothko daba un sentido religioso a su pintura. Al final de su vida sus cuadros son de tonalidades oscuras, con abundancia de marrones, violetas, granates y, sobre todo, negros. Corresponde a esta época la Capilla Rothko de la familia De Menil, en Houston, un espacio de oración donde catorce cuadros rodean un espacio octogonal dedicado a la meditación.
 
-### Otros usos para md
+### Otros usos utiles  para md
 
 
 ~~~
