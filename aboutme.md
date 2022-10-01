@@ -27,7 +27,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 Con la ayuda de un generador de páginas [estaticas]( https://jamstack.org/generators/).
 
 
-![cap1](https://github.com/adm-10/despliegueweb/blob/master/assets/img/cap1.PNG?raw=true){:width="600px"}
+![cap1](https://github.com/adm-10/despliegueweb/blob/master/assets/img/cap1.PNG?raw=true){: .mx-auto.d-block :}
 
 Escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo al nuestro.
 
