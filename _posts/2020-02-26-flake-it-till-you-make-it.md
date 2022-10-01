@@ -3,7 +3,7 @@ layout: post
 title: Verde sobre morado
 subtitle: Una obra de Mark Rothko
 cover-img: /assets/img/1982.50_sin-titulo-verde-sobre-morado.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/1982.50_sin-titulo-verde-sobre-morado.jpg
 share-img: /assets/img/1982.50_sin-titulo-verde-sobre-morado.jpg
 tags: [books, test]
 ---
