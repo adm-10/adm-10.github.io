@@ -12,21 +12,27 @@ Ha sido asociado con el movimiento contemporáneo del expresionismo abstracto, a
 
 
 
-## Rothko junto a uno de sus cuadros
+## Rothko junto a uno de sus
 
-<img src="/assets/img/rothko.jpg" alt="imagen rothko" width="600px" />
+Here's a useless table:
 
-![tothko](https://github.com/adm-10/despliegueweb/blob/master/assets/img/rothko.jpg){: .mx-auto.d-block :}
-
-
-En 1925 inició su carrera como pintor en Nueva York de modo autodidacta. En torno a 1940 realizaba una pintura muy similar a la obra de Barnett Newman y Adolph Gottlieb, próxima al surrealismo y plagada de formas biomórficas. A partir de 1947 su estilo cambió y comenzó a pintar grandes cuadros con capas finas de color. Con el paso de los años, la mayoría de sus composiciones tomaron la forma de dos rectángulos confrontados con bordes desdibujados por veladuras.
-
-Son frecuentes los grandes formatos que envuelven al espectador, con la finalidad de hacerle partícipe de una experiencia mística, ya que Rothko daba un sentido religioso a su pintura. Al final de su vida sus cuadros son de tonalidades oscuras, con abundancia de marrones, violetas, granates y, sobre todo, negros. Corresponde a esta época la Capilla Rothko de la familia De Menil, en Houston, un espacio de oración donde catorce cuadros rodean un espacio octogonal dedicado a la meditación.
-
-
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
 
 
-### Otros aspectos de md
+How about a yummy crepe?
+
+![Crepe](https://uploads8.wikiart.org/temp/9ffd4a12-fb03-49a5-9e10-e66fe9b11792.jpg!Portrait.jpg)
+
+It can also be centered!
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+Here's a code chunk:
 
 ~~~
 var foo = function(x) {
