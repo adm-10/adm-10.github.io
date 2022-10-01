@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](https://uploads8.wikiart.org/temp/9ffd4a12-fb03-49a5-9e10-e66fe9b11792.jpg!Portrait.jpg)
+![Crepe](https://uploads8.wikiart.org/temp/9ffd4a12-fb03-49a5-9e10-e66fe9b11792.jpg!Portrait.jpg){: .mx-auto.d-block :}
 
 It can also be centered!
 
