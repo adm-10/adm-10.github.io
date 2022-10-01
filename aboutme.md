@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 - Tambien soy fan de varios deportes
 
-![Deportes](https://www.edx.org/static/d2b75bcda9cf89d92bf563b009519cea/Aprende_deportes.jpg)
+![Deportes](https://www.edx.org/static/d2b75bcda9cf89d92bf563b009519cea/Aprende_deportes.jpg){: .mx-auto.d-block :}
 
 
 ## ¿Como hice esta página?
@@ -27,7 +27,7 @@ src="https://www.youtube.com/embed/tgbNymZ7vqY">
 Con la ayuda de un generador de páginas [estaticas]( https://jamstack.org/generators/).
 
 
-![cap1](https://github.com/adm-10/despliegueweb/blob/master/assets/img/cap1.PNG?raw=true){: .mx-auto.d-block :}
+![cap1](https://github.com/adm-10/despliegueweb/blob/master/assets/img/cap1.PNG?raw=true){:width="600px"}
 
 Escogemos una y vamos a su repositorio de Github para realizamos un **fork** y copiarlo al nuestro.
 
