@@ -16,6 +16,7 @@ Ha sido asociado con el movimiento contemporáneo del expresionismo abstracto, a
 
 ![tothko](https://github.com/adm-10/despliegueweb/blob/master/assets/img/Rotko_JUFROTHKO_A.jpeg){: .mx-auto.d-block :}
 
+
 En 1925 inició su carrera como pintor en Nueva York de modo autodidacta. En torno a 1940 realizaba una pintura muy similar a la obra de Barnett Newman y Adolph Gottlieb, próxima al surrealismo y plagada de formas biomórficas. A partir de 1947 su estilo cambió y comenzó a pintar grandes cuadros con capas finas de color. Con el paso de los años, la mayoría de sus composiciones tomaron la forma de dos rectángulos confrontados con bordes desdibujados por veladuras.
 
 Son frecuentes los grandes formatos que envuelven al espectador, con la finalidad de hacerle partícipe de una experiencia mística, ya que Rothko daba un sentido religioso a su pintura. Al final de su vida sus cuadros son de tonalidades oscuras, con abundancia de marrones, violetas, granates y, sobre todo, negros. Corresponde a esta época la Capilla Rothko de la familia De Menil, en Houston, un espacio de oración donde catorce cuadros rodean un espacio octogonal dedicado a la meditación.
