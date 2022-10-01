@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Verde sobre morado
+subtitle: Una obra de Mark Rothko
+cover-img: /assets/img/1982.50_sin-titulo-verde-sobre-morado.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/1982.50_sin-titulo-verde-sobre-morado.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+El poder hipnótico de este cuadro atrapa al espectador en una experiencia exclusivamente emocional.   El espacio deja de existir para dar paso a una abstracción plana puramente óptica.  El verde de un irregular acabado, es trabajado por el artista a base de finas veladuras transparentes (sabiduría que los primitivos flamencos aplicaron a los objetos y decorados de sus cuadros obteniendo calidades casi fotográficas).   Un verde que necesita contrastar con la neutralidad del morado para dar su mejor acabado. Elegancia fría y seductora que gusta o no gusta pero que nunca te deja indiferente.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Aunque Rothko, nació en Letonia la mayor parte de su vida transcurrió en Estados Unidos, por ello, enseguida nos viene a la mente una corriente artística donde ubicarle, el Expresionismo Abstracto, una concepción que el propio artista ponía en tela de juicio, ya que  para él, su obra no se podía tildar de abstracta.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+«Un cuadro toma vida ante la presencia de un espectador sensible, en cuya conciencia se desarrolla y crece». Estas palabras de Rothko ilustran muy bien el carácter emocional que otorgaba a los campos de color que invadían sus cuadros. Un color que se interpone entre la emoción tangible -tragedia, éxtasis, destino…- y el espectador.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
